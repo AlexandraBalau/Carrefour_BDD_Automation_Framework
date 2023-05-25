@@ -1,7 +1,7 @@
 Carrefour BDD Automation Framework
 
-Site-ul testat: www.carrefour.ro
-Design pattern-ul folosit: Page Object Model
+<p>Site-ul testat: www.carrefour.ro</p>
+<p>Design pattern-ul folosit: Page Object Model</p>
 Metodologia: Behavior Driven Development
 
 1.	Instalați Google Chrome
