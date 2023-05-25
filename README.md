@@ -15,6 +15,7 @@ Pentru a clona/importa proiectul:
 git clone https://github.com/AlexandraBalau/Carrefour_BDD_Automation_Framework.git
 
 Libraries to install:
+
 pip install -U selenium
 
 pip install behave
@@ -29,6 +30,7 @@ pip install webdriver-manager
 behave -f html -o behave-report.html
 
 Troubleshoot:
+
 a.
 Daca nu funcționează cu pip încercați comanda: py -m pip install selenium
 
