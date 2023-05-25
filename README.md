@@ -2,7 +2,7 @@ Carrefour BDD Automation Framework
 
 <p>Site-ul testat: www.carrefour.ro</p>
 <p>Design pattern-ul folosit: Page Object Model</p>
-Metodologia: Behavior Driven Development
+<p>Metodologia: Behavior Driven Development</p>
 
 1.	Instalați Google Chrome
 2.	Instalați Pycharm Community Edition: https://www.jetbrains.com/pycharm/download/
@@ -16,9 +16,13 @@ git clone https://github.com/AlexandraBalau/Carrefour_BDD_Automation_Framework.g
 
 Libraries to install:
 pip install -U selenium
+
 pip install behave
+
 pip install behave-html-formatter
+
 pip install webdriver-manager
+
 
 În Terminal, run tests:
 
