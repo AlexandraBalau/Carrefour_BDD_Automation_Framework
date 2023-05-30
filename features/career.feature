@@ -1,4 +1,4 @@
-Feature: Check the location career search functionality
+Feature: Check the career location search functionality
 
   Background:
     Given home: I am on home page
