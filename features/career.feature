@@ -2,7 +2,7 @@ Feature: Check the career location search functionality
 
   Background:
     Given home: I am on home page
-    When  base: Close cookies popup
+    Given base: Close cookies popup
 
 
   @job_search

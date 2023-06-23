@@ -2,7 +2,7 @@ Feature: Check the home page functionality
 
   Background:
     Given home: I am on home page
-    When  base: Close cookies popup
+    Given base: Close cookies popup
 
   @test_home_page
     Scenario: Verify home page url

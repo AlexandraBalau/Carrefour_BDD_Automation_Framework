@@ -3,8 +3,8 @@ Feature: Check the Forgot password functionality
   Background:
 
     Given login: I am a user on the login page
-    When  login: I click on the forgot password link
-    When  base: Close cookies popup
+    Given login: I click on the forgot password link
+    Given base: Close cookies popup
 
   @invalid_mail
   Scenario: Check validation error message when email is invalid format

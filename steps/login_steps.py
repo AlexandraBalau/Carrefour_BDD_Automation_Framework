@@ -28,7 +28,7 @@ def step_impl(context, msg):
     context.login_page.check_login_error_message(msg)
 
 
-@when('login: I click on the forgot password link')
+@given('login: I click on the forgot password link')
 def step_impl(context):
     context.login_page.click_forgot_password_link()
 
